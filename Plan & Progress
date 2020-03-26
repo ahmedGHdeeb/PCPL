@@ -1,0 +1,21 @@
+ID: PCPL
+Details: my own PCPL (PC processing Libraries)
+Language: python, C++
+Plan:
+-----------------------------------------------
+1:
+1_1_Define PCs
+1_2_Operations on PCs:
+	union,difference,adding points,removing points,calculate geometrical center
+...
+2:
+2_1_PC processing: 
+	2_1_1_compute normals
+	2_1_2_defined best fitting shapes
+	2_1_3_segmetation
+	2_1_4_define and remove outliners, define inliners
+...
+3:
+PC view: 3D engin + interation with user
+...
+-----------------------------------------------
