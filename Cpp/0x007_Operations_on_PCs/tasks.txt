@@ -1,0 +1,7 @@
+add new points
+delete points
+find similar points
+find difference points
+calculate distance
+calculate plane of three points
+calculate normal of three points plane
